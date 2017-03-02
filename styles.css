@@ -2,6 +2,15 @@ body {
         background-color: #E9EBF8;
 }
 
+#about, #career, #hobby, #blogs {
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+#about, #career, #hobby, #blogs {
+    margin-right: 40px;
+    margin-left: 60px;
+}
 @media only screen and (max-width: 500px) {
     nav {
         ;
