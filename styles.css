@@ -11,6 +11,10 @@ body {
     text-align: center;
 }
 
+body {
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
 @media only screen and (max-width: 500px) {
     nav {
         ;
