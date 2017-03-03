@@ -7,9 +7,12 @@ a {
     /*padding-left: 100px;*/
 }
 
-#banner {
-    max-width: 50%;
-    height: auto;
+#banner img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  margin:auto;
+  display:block
 }
 
 body {
